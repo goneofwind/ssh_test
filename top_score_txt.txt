@@ -1,0 +1,316 @@
+image /home/gongli/testdata/compare_face_mtcnnpy_160/others/何佳琳/3852.png top 3 list is : 
+max 0 score and image is : 0.6233  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/何佳琳_1.png
+max 1 score and image is : 0.6140  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33048219780503334X_2.png
+max 2 score and image is : 0.6045  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33260319780115474X_3.png
+image /home/gongli/testdata/compare_face_mtcnnpy_160/others/何佳琳/5074.png top 3 list is : 
+max 0 score and image is : 0.6715  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/何佳琳_1.png
+max 1 score and image is : 0.6450  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33048219780503334X_2.png
+max 2 score and image is : 0.5826  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33082419681025372X_1.png
+image /home/gongli/testdata/compare_face_mtcnnpy_160/others/何佳琳/491.png top 3 list is : 
+max 0 score and image is : 0.5990  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33038119870109225X_2.png
+max 1 score and image is : 0.5660  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33021119671017451X_1.png
+max 2 score and image is : 0.5556  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33012719580121141X_1.png
+image /home/gongli/testdata/compare_face_mtcnnpy_160/others/何佳琳/4851.png top 3 list is : 
+max 0 score and image is : 0.5749  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/何佳琳_1.png
+max 1 score and image is : 0.5352  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33010219910412272X_2.png
+max 2 score and image is : 0.5174  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33048219780503334X_2.png
+image /home/gongli/testdata/compare_face_mtcnnpy_160/others/何佳琳/5091 (2).png top 3 list is : 
+max 0 score and image is : 0.7040  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/何佳琳_1.png
+max 1 score and image is : 0.6608  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33048219780503334X_2.png
+max 2 score and image is : 0.5701  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33260319780115474X_3.png
+image /home/gongli/testdata/compare_face_mtcnnpy_160/others/何佳琳/5071.png top 3 list is : 
+max 0 score and image is : 0.6726  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/何佳琳_1.png
+max 1 score and image is : 0.6185  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33048219780503334X_2.png
+max 2 score and image is : 0.5932  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33260319710718456X_2.png
+image /home/gongli/testdata/compare_face_mtcnnpy_160/others/何夏/0bdf35dc-ad4f-4fa2-abed-cdfdfaa7c781_20170106155054_28.png top 3 list is : 
+max 0 score and image is : 0.5652  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/何夏.png
+max 1 score and image is : 0.5589  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33072119821105546X_3.png
+max 2 score and image is : 0.5562  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33032719860412600X_1.png
+image /home/gongli/testdata/compare_face_mtcnnpy_160/others/何夏/0d631f88-f35a-486c-a81f-cf7ac8ea51d0_20170114094033_69.png top 3 list is : 
+max 0 score and image is : 0.5688  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33062519711221060X_1.png
+max 1 score and image is : 0.5578  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/A07.png
+max 2 score and image is : 0.5566  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33072219680929143X_1.png
+image /home/gongli/testdata/compare_face_mtcnnpy_160/others/冯磊/14_20_03_0003.png top 3 list is : 
+max 0 score and image is : 0.6139  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/冯磊.png
+max 1 score and image is : 0.5247  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33030219540601003X_1.png
+max 2 score and image is : 0.5043  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33032719691004349X_1.png
+image /home/gongli/testdata/compare_face_mtcnnpy_160/others/冯磊/14_19_59_0527.png top 3 list is : 
+max 0 score and image is : 0.6536  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/冯磊.png
+max 1 score and image is : 0.5509  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33900519760822081X_1.png
+max 2 score and image is : 0.5387  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/320923198112270318_1.png
+image /home/gongli/testdata/compare_face_mtcnnpy_160/others/冯磊/14_18_02_0977.png top 3 list is : 
+max 0 score and image is : 0.7659  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/冯磊.png
+max 1 score and image is : 0.5231  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33062319770919251X_1.png
+max 2 score and image is : 0.5216  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33030219540601003X_1.png
+image /home/gongli/testdata/compare_face_mtcnnpy_160/others/冯磊/14_17_29_0604.png top 3 list is : 
+max 0 score and image is : 0.6603  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/冯磊.png
+max 1 score and image is : 0.5097  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/330102196101291217_1.png
+max 2 score and image is : 0.5003  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/231003197210030019_1.png
+image /home/gongli/testdata/compare_face_mtcnnpy_160/others/孙逊/孙逊_510107198602230030_3.png top 3 list is : 
+max 0 score and image is : 0.5360  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/孙逊_5.png
+max 1 score and image is : 0.5165  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/330102198906012712_4.png
+max 2 score and image is : 0.5112  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/321084197904150816_1.png
+image /home/gongli/testdata/compare_face_mtcnnpy_160/others/孙逊/IMG_20160929_130551.png top 3 list is : 
+max 0 score and image is : 0.7678  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/孙逊_5.png
+max 1 score and image is : 0.5782  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33020319570215125X_1.png
+max 2 score and image is : 0.5594  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33032619851107411X_2.png
+image /home/gongli/testdata/compare_face_mtcnnpy_160/others/孙逊/孙逊_510107198602230030_2.png top 3 list is : 
+max 0 score and image is : 0.5350  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33262319690530087X_2.png
+max 1 score and image is : 0.5178  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33032619851107411X_2.png
+max 2 score and image is : 0.5169  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/110108196604302317_2.png
+image /home/gongli/testdata/compare_face_mtcnnpy_160/others/宋锐/0.80179_10_21_57_0040.png top 3 list is : 
+max 0 score and image is : 0.6744  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/宋锐.png
+max 1 score and image is : 0.5781  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33028119931108793X_2.png
+max 2 score and image is : 0.5691  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33032719900510599X_2.png
+image /home/gongli/testdata/compare_face_mtcnnpy_160/others/宋锐/0.8376_13_59_24_0604.png top 3 list is : 
+max 0 score and image is : 0.7355  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/宋锐.png
+max 1 score and image is : 0.5976  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33028219791113467X_1.png
+max 2 score and image is : 0.5952  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33030219670803201X_2.png
+image /home/gongli/testdata/compare_face_mtcnnpy_160/others/宋锐/0.76782_16_15_20_0998.png top 3 list is : 
+max 0 score and image is : 0.6692  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33102319820622181X_1.png
+max 1 score and image is : 0.6279  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/宋锐.png
+max 2 score and image is : 0.5825  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33250219830226287X_2.png
+image /home/gongli/testdata/compare_face_mtcnnpy_160/others/宋锐/0.838_11_11_31_0842.png top 3 list is : 
+max 0 score and image is : 0.7049  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/宋锐.png
+max 1 score and image is : 0.6219  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33028219791113467X_1.png
+max 2 score and image is : 0.5817  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33032519820126363X_1.png
+image /home/gongli/testdata/compare_face_mtcnnpy_160/others/宋锐/0.79575_15_32_24_0622.png top 3 list is : 
+max 0 score and image is : 0.7236  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/宋锐.png
+max 1 score and image is : 0.6379  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33052119730613021X_1.png
+max 2 score and image is : 0.5868  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33072419680119163X_2.png
+image /home/gongli/testdata/compare_face_mtcnnpy_160/others/廖伟/08_59_32_0844.png top 3 list is : 
+max 0 score and image is : 0.6710  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33900519771212641X_1.png
+max 1 score and image is : 0.5391  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33020619620324341X_1.png
+max 2 score and image is : 0.5320  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33072219890210233X_3.png
+image /home/gongli/testdata/compare_face_mtcnnpy_160/others/廖伟/20_06_40_0292.png top 3 list is : 
+max 0 score and image is : 0.5975  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/320922197802103938_2.png
+max 1 score and image is : 0.5778  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33022719540719301X_1.png
+max 2 score and image is : 0.5612  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/320826197412250633_1.png
+image /home/gongli/testdata/compare_face_mtcnnpy_160/others/廖伟/01aad5e1-2c27-49e3-815b-844af4588303_20170112102502_28.png top 3 list is : 
+max 0 score and image is : 0.5695  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33032319750526081X_1.png
+max 1 score and image is : 0.5524  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33082119730710647X_2.png
+max 2 score and image is : 0.5521  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33901119741015843X_2.png
+image /home/gongli/testdata/compare_face_mtcnnpy_160/others/廖伟/3b07099f-3256-4c26-9f67-baa8d7a18a3e_20170112105145_28.png top 3 list is : 
+max 0 score and image is : 0.6278  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33021119851228301X_1.png
+max 1 score and image is : 0.6048  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33072619860517392X_1.png
+max 2 score and image is : 0.6028  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33072619661114371X_1.png
+image /home/gongli/testdata/compare_face_mtcnnpy_160/others/廖伟/16_18_33_0355.png top 3 list is : 
+max 0 score and image is : 0.6289  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33020619620324341X_1.png
+max 1 score and image is : 0.5934  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33082119730710647X_2.png
+max 2 score and image is : 0.5759  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/132201196708136815_1.png
+image /home/gongli/testdata/compare_face_mtcnnpy_160/others/李健/李健_610622198505094990_2.png top 3 list is : 
+max 0 score and image is : 0.5601  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33068219880407281X_1.png
+max 1 score and image is : 0.5400  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/320525198402138316_1.png
+max 2 score and image is : 0.5384  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/320683197905228633_2.png
+image /home/gongli/testdata/compare_face_mtcnnpy_160/others/李健/李健_610622198505094990_3.png top 3 list is : 
+max 0 score and image is : 0.6220  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/李健_1.png
+max 1 score and image is : 0.5753  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/320683197905228633_2.png
+max 2 score and image is : 0.5565  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33032519710325011X_1.png
+image /home/gongli/testdata/compare_face_mtcnnpy_160/others/李健/李健_610622198505094990_4.png top 3 list is : 
+max 0 score and image is : 0.6458  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/李健_1.png
+max 1 score and image is : 0.5943  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33042219691123331X_1.png
+max 2 score and image is : 0.5844  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33012719921228001X_3.png
+image /home/gongli/testdata/compare_face_mtcnnpy_160/others/柳睿/0.797151_21_00_29_0977.png top 3 list is : 
+max 0 score and image is : 0.7497  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/柳睿2.png
+max 1 score and image is : 0.6280  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33092119720520201X_1.png
+max 2 score and image is : 0.5462  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33068319900218241X_1.png
+image /home/gongli/testdata/compare_face_mtcnnpy_160/others/柳睿/0.790732_13_47_29_0771.png top 3 list is : 
+max 0 score and image is : 0.7674  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/柳睿2.png
+max 1 score and image is : 0.5585  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33090319720712151X_2.png
+max 2 score and image is : 0.5490  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33092119720520201X_1.png
+image /home/gongli/testdata/compare_face_mtcnnpy_160/others/柳睿/0.790224_18_06_53_0037.png top 3 list is : 
+max 0 score and image is : 0.8071  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/柳睿2.png
+max 1 score and image is : 0.5883  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33092119720520201X_1.png
+max 2 score and image is : 0.5659  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33042119931005003X_2.png
+image /home/gongli/testdata/compare_face_mtcnnpy_160/others/柳睿/0.791962_10_28_55_0306.png top 3 list is : 
+max 0 score and image is : 0.7950  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/柳睿2.png
+max 1 score and image is : 0.6282  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33068319900218241X_1.png
+max 2 score and image is : 0.6229  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33090319720712151X_2.png
+image /home/gongli/testdata/compare_face_mtcnnpy_160/others/柳睿/0.796857_18_08_00_0003.png top 3 list is : 
+max 0 score and image is : 0.7952  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/柳睿2.png
+max 1 score and image is : 0.6190  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/柳睿.png
+max 2 score and image is : 0.5737  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33012319651009163X_2.png
+image /home/gongli/testdata/compare_face_mtcnnpy_160/others/王先德/40.png top 3 list is : 
+max 0 score and image is : 0.5806  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/王先德_1.png
+max 1 score and image is : 0.5542  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/320724198311024211_1.png
+max 2 score and image is : 0.5344  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33042219680922541X_1.png
+image /home/gongli/testdata/compare_face_mtcnnpy_160/others/王先德/1.png top 3 list is : 
+max 0 score and image is : 0.5923  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/王先德_1.png
+max 1 score and image is : 0.5337  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33900519760822081X_1.png
+max 2 score and image is : 0.5277  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/320724198311024211_1.png
+image /home/gongli/testdata/compare_face_mtcnnpy_160/others/王先德/pictureXZGREW1X.png top 3 list is : 
+max 0 score and image is : 0.5994  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/王先德_1.png
+max 1 score and image is : 0.5711  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33082319820826551X_3.png
+max 2 score and image is : 0.5593  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33030219701020593X_1.png
+image /home/gongli/testdata/compare_face_mtcnnpy_160/others/王天/王天_510107198302230030_3.png top 3 list is : 
+max 0 score and image is : 0.6004  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/王天.png
+max 1 score and image is : 0.5939  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33012519690822452X_1.png
+max 2 score and image is : 0.5802  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33052219631027455X_2.png
+image /home/gongli/testdata/compare_face_mtcnnpy_160/others/王天/王天_510107198302230030_4.png top 3 list is : 
+max 0 score and image is : 0.6400  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/王天.png
+max 1 score and image is : 0.6102  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33052219631027455X_2.png
+max 2 score and image is : 0.6070  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33260119750927061X_4.png
+image /home/gongli/testdata/compare_face_mtcnnpy_160/others/王天/王天_510107198302230030_2.png top 3 list is : 
+max 0 score and image is : 0.5371  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/330102196911280333_1.png
+max 1 score and image is : 0.5347  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33062519670830387X_2.png
+max 2 score and image is : 0.5326  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33262319720722259X_1.png
+image /home/gongli/testdata/compare_face_mtcnnpy_160/others/王淦/王淦__4.png top 3 list is : 
+max 0 score and image is : 0.6923  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/王淦__1.png
+max 1 score and image is : 0.5618  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33102219880617001X_5.png
+max 2 score and image is : 0.5349  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33262619730926241X_2.png
+image /home/gongli/testdata/compare_face_mtcnnpy_160/others/王淦/王淦__2.png top 3 list is : 
+max 0 score and image is : 0.5653  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/BK1.png
+max 1 score and image is : 0.5653  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/hard_to_find_1_1.png
+max 2 score and image is : 0.5594  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33262619661215189X_1.png
+image /home/gongli/testdata/compare_face_mtcnnpy_160/others/王淦/11.png top 3 list is : 
+max 0 score and image is : 0.7061  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/王淦__1.png
+max 1 score and image is : 0.6163  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33262619730926241X_2.png
+max 2 score and image is : 0.6123  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33012319580809031X_1.png
+image /home/gongli/testdata/compare_face_mtcnnpy_160/others/王淦/3.png top 3 list is : 
+max 0 score and image is : 0.7474  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/王淦__1.png
+max 1 score and image is : 0.6001  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33032519750723671X_3.png
+max 2 score and image is : 0.5703  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/130203198211051250_1.png
+image /home/gongli/testdata/compare_face_mtcnnpy_160/others/王淦/王淦__3.png top 3 list is : 
+max 0 score and image is : 0.6670  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/王淦__1.png
+max 1 score and image is : 0.5569  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33022719860609443X_3.png
+max 2 score and image is : 0.5424  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/330102197711171532_2.png
+image /home/gongli/testdata/compare_face_mtcnnpy_160/others/瞿章勇/0.783033_15_06_37_0274.png top 3 list is : 
+max 0 score and image is : 0.5881  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/瞿章勇.png
+max 1 score and image is : 0.5460  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33022719900328647X_1.png
+max 2 score and image is : 0.5211  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33070219810913471X_2.png
+image /home/gongli/testdata/compare_face_mtcnnpy_160/others/瞿章勇/15_06_50_0182.png top 3 list is : 
+max 0 score and image is : 0.5656  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/瞿章勇.png
+max 1 score and image is : 0.5597  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33022719900328647X_1.png
+max 2 score and image is : 0.5168  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/330102197011121219_2.png
+image /home/gongli/testdata/compare_face_mtcnnpy_160/others/瞿章勇/0.779117_15_06_34_0101.png top 3 list is : 
+max 0 score and image is : 0.6610  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/瞿章勇.png
+max 1 score and image is : 0.5839  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33018419811104001X_2.png
+max 2 score and image is : 0.5356  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33032119731015511X_3.png
+image /home/gongli/testdata/compare_face_mtcnnpy_160/others/瞿章勇/08_18_12_0873.png top 3 list is : 
+max 0 score and image is : 0.6052  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/瞿章勇.png
+max 1 score and image is : 0.5075  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33018419811104001X_2.png
+max 2 score and image is : 0.4973  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33062119671123577X_1.png
+image /home/gongli/testdata/compare_face_mtcnnpy_160/others/程秀传/09_59_17_0658 606.755737.png top 3 list is : 
+max 0 score and image is : 0.6957  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/程秀传__1.png
+max 1 score and image is : 0.5425  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33262619800525057X_1.png
+max 2 score and image is : 0.5137  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33072219720912451X_2.png
+image /home/gongli/testdata/compare_face_mtcnnpy_160/others/程秀传/09_55_44_0942 505.296204.png top 3 list is : 
+max 0 score and image is : 0.6611  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/程秀传__1.png
+max 1 score and image is : 0.5785  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33012419690709101X_1.png
+max 2 score and image is : 0.5152  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33042519650616345X_1.png
+image /home/gongli/testdata/compare_face_mtcnnpy_160/others/程秀传/09_59_42_0072 509.824402.png top 3 list is : 
+max 0 score and image is : 0.6835  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/程秀传__1.png
+max 1 score and image is : 0.5636  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33060219731002001X_4.png
+max 2 score and image is : 0.5188  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33038119910204551X_1.png
+image /home/gongli/testdata/compare_face_mtcnnpy_160/others/程秀传/09_17_30_0145.png top 3 list is : 
+max 0 score and image is : 0.7498  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/程秀传__1.png
+max 1 score and image is : 0.5940  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33252819800913141X_2.png
+max 2 score and image is : 0.5220  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33262119740623761X_1.png
+image /home/gongli/testdata/compare_face_mtcnnpy_160/others/程秀传/10_01_14_0007 414.340515.png top 3 list is : 
+max 0 score and image is : 0.6564  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/程秀传__1.png
+max 1 score and image is : 0.5551  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33052219750911411X_1.png
+max 2 score and image is : 0.5190  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33022719540719301X_1.png
+image /home/gongli/testdata/compare_face_mtcnnpy_160/others/程秀传/09_55_15_0827 649.621521.png top 3 list is : 
+max 0 score and image is : 0.5757  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/程秀传__1.png
+max 1 score and image is : 0.5397  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33052219750911411X_1.png
+max 2 score and image is : 0.5033  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33050119940520445X_1.png
+image /home/gongli/testdata/compare_face_mtcnnpy_160/others/罗光春/罗光春_510101197207013751_2.png top 3 list is : 
+max 0 score and image is : 0.7292  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/罗光春__1.png
+max 1 score and image is : 0.6128  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33252619890418251X_1.png
+max 2 score and image is : 0.5994  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33010319470711161X_1.png
+image /home/gongli/testdata/compare_face_mtcnnpy_160/others/罗光春/罗光春_510101197207013751_3.png top 3 list is : 
+max 0 score and image is : 0.5616  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33010319470711161X_1.png
+max 1 score and image is : 0.5574  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/罗光春__1.png
+max 2 score and image is : 0.5355  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33260319691226543X_1.png
+image /home/gongli/testdata/compare_face_mtcnnpy_160/others/罗光春/罗光春_510101197207013751_4.png top 3 list is : 
+max 0 score and image is : 0.5660  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/罗光春__1.png
+max 1 score and image is : 0.5564  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/330102195906051515_1.png
+max 2 score and image is : 0.5512  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33012319630409483X_1.png
+image /home/gongli/testdata/compare_face_mtcnnpy_160/others/钱德崇/钱德崇_510107198002230030_4.png top 3 list is : 
+max 0 score and image is : 0.5213  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/钱德崇__1.png
+max 1 score and image is : 0.4868  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33010619710924401X_1.png
+max 2 score and image is : 0.4479  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33100319811118001X_1.png
+image /home/gongli/testdata/compare_face_mtcnnpy_160/others/钱德崇/钱德崇_510107198002230030_2.png top 3 list is : 
+max 0 score and image is : 0.6175  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/钱德崇__1.png
+max 1 score and image is : 0.6033  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33010619710924401X_1.png
+max 2 score and image is : 0.5491  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33062119601129113X_1.png
+image /home/gongli/testdata/compare_face_mtcnnpy_160/others/钱德崇/钱德崇_510107198002230030_3.png top 3 list is : 
+max 0 score and image is : 0.5271  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33262319630901341X_1.png
+max 1 score and image is : 0.5239  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33042419590919345X_1.png
+max 2 score and image is : 0.5204  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33022419770513523X_1.png
+image /home/gongli/testdata/compare_face_mtcnnpy_160/others/陈世胜/蒲子军__6.png top 3 list is : 
+max 0 score and image is : 0.6885  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/陈世胜.png
+max 1 score and image is : 0.6168  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33032619720903231X_1.png
+max 2 score and image is : 0.5880  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33010619691216409X_1.png
+image /home/gongli/testdata/compare_face_mtcnnpy_160/others/陈世胜/蒲子军__1.png top 3 list is : 
+max 0 score and image is : 0.7413  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/陈世胜.png
+max 1 score and image is : 0.6782  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/330102197403021516_1.png
+max 2 score and image is : 0.6428  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/51092119880822112X_3.png
+image /home/gongli/testdata/compare_face_mtcnnpy_160/others/陈世胜/蒲子军__9.png top 3 list is : 
+max 0 score and image is : 0.6281  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33082119660318323X_2.png
+max 1 score and image is : 0.6089  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33022619651116783X_1.png
+max 2 score and image is : 0.5702  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33262119500411233X_1.png
+image /home/gongli/testdata/compare_face_mtcnnpy_160/others/陈俊杰/23_14_53_0040.png top 3 list is : 
+max 0 score and image is : 0.7315  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/陈俊杰.png
+max 1 score and image is : 0.6314  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33072619691024473X_3.png
+max 2 score and image is : 0.6270  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33900519851030741X_2.png
+image /home/gongli/testdata/compare_face_mtcnnpy_160/others/陈俊杰/23_59_37_0954.png top 3 list is : 
+max 0 score and image is : 0.6436  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/陈俊杰.png
+max 1 score and image is : 0.5884  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33018219770219251X_2.png
+max 2 score and image is : 0.5466  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/35222919830115003X_2.png
+image /home/gongli/testdata/compare_face_mtcnnpy_160/others/陈俊杰/23_54_36_0893.png top 3 list is : 
+max 0 score and image is : 0.6614  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/陈俊杰.png
+max 1 score and image is : 0.5636  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33018219770219251X_2.png
+max 2 score and image is : 0.5553  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33042119790927003X_1.png
+image /home/gongli/testdata/compare_face_mtcnnpy_160/others/陈俊杰/23_55_42_0234.png top 3 list is : 
+max 0 score and image is : 0.6968  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/陈俊杰.png
+max 1 score and image is : 0.6906  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/35222919830115003X_2.png
+max 2 score and image is : 0.6067  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33072119880708443X_1.png
+image /home/gongli/testdata/compare_face_mtcnnpy_160/others/陈俊杰/23_15_05_0589.png top 3 list is : 
+max 0 score and image is : 0.7215  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/陈俊杰.png
+max 1 score and image is : 0.6076  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33042119790927003X_1.png
+max 2 score and image is : 0.5852  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33072119880708443X_1.png
+image /home/gongli/testdata/compare_face_mtcnnpy_160/others/陈勇/09_23_33_0334.png top 3 list is : 
+max 0 score and image is : 0.6185  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/hard_to_find_2_1.png
+max 1 score and image is : 0.6185  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/陈勇.png
+max 2 score and image is : 0.5483  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/陈勇2.png
+image /home/gongli/testdata/compare_face_mtcnnpy_160/others/陈勇/0af95ee3-f04b-4d14-8ef5-738c32044539_20170111164103_19.png top 3 list is : 
+max 0 score and image is : 0.8103  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/陈勇2.png
+max 1 score and image is : 0.7506  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/hard_to_find_2_1.png
+max 2 score and image is : 0.7506  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/陈勇.png
+image /home/gongli/testdata/compare_face_mtcnnpy_160/others/陈勇/0e06e07b-ccaa-4126-967e-d1ae698330f7_20170111164129_74.png top 3 list is : 
+max 0 score and image is : 0.7101  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/hard_to_find_2_1.png
+max 1 score and image is : 0.7101  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/陈勇.png
+max 2 score and image is : 0.6390  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/陈勇2.png
+image /home/gongli/testdata/compare_face_mtcnnpy_160/others/陈勇/9ecb3441-709f-4c89-afdb-81169faf6e29_20170112101058_50.png top 3 list is : 
+max 0 score and image is : 0.5336  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33262319680226153X_1.png
+max 1 score and image is : 0.5256  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/hard_to_find_2_1.png
+max 2 score and image is : 0.5256  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/陈勇.png
+image /home/gongli/testdata/compare_face_mtcnnpy_160/others/陈金鑫/5011 (2).png top 3 list is : 
+max 0 score and image is : 0.5655  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33062519620531637X_1.png
+max 1 score and image is : 0.5236  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33021919811002303X_2.png
+max 2 score and image is : 0.5121  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33052119881012231X_2.png
+image /home/gongli/testdata/compare_face_mtcnnpy_160/others/陈金鑫/5215 (3).png top 3 list is : 
+max 0 score and image is : 0.4997  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/陈金鑫_1.png
+max 1 score and image is : 0.4700  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33050119901219131X_1.png
+max 2 score and image is : 0.4673  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33052119881012231X_2.png
+image /home/gongli/testdata/compare_face_mtcnnpy_160/others/陈金鑫/5001 (2).png top 3 list is : 
+max 0 score and image is : 0.5960  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/陈金鑫_1.png
+max 1 score and image is : 0.5439  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33052119881012231X_2.png
+max 2 score and image is : 0.5276  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33900519861110331X_1.png
+image /home/gongli/testdata/compare_face_mtcnnpy_160/others/陈金鑫/5349 (3).png top 3 list is : 
+max 0 score and image is : 0.4985  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33062519620531637X_1.png
+max 1 score and image is : 0.4705  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33072219750926061X_1.png
+max 2 score and image is : 0.4700  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33052219750911411X_1.png
+image /home/gongli/testdata/compare_face_mtcnnpy_160/others/黄毅/17_01_16_0350.png top 3 list is : 
+max 0 score and image is : 0.6283  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33038119860217011X_1.png
+max 1 score and image is : 0.5955  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33082119911123601X_2.png
+max 2 score and image is : 0.5934  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33012719911129501X_1.png
+image /home/gongli/testdata/compare_face_mtcnnpy_160/others/黄毅/16_15_35_0815.png top 3 list is : 
+max 0 score and image is : 0.6032  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33072619810930031X_2.png
+max 1 score and image is : 0.5917  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33072619821123251X_2.png
+max 2 score and image is : 0.5710  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33071919800813593X_1.png
+image /home/gongli/testdata/compare_face_mtcnnpy_160/others/黄毅/14_45_18_0145 344.086700.png top 3 list is : 
+max 0 score and image is : 0.5920  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33090319910614181X_2.png
+max 1 score and image is : 0.5657  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33072619821123251X_2.png
+max 2 score and image is : 0.5646  /home/gongli/testdata/face_lib_mtcnnpy_160/face_lib/33072619810930031X_2.png
